@@ -1,0 +1,7 @@
+https://gb.ru/posts/kak-testirovat-api-ili-postman-dlya-chajnikov
+Тестирование API c postman: 
+https://www.youtube.com/watch?v=zfrQtU8eCEo
+На степике: 
+https://stepik.org/course/120679/info
+Еще инфо: 
+https://academy.yandex.ru/handbook/python/article/potokovyj-vvodvyvod-rabota-s-tekstovymi-fajlami-json
